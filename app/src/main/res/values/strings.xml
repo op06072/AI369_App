@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AI369</string>
+    <string name="game_start">게임시작</string>
+    <string name="benchmark">AI 벤치마크</string>
+    <string name="game_menu">Man VS AI</string>
+    <string name="easy">쉬움</string>
+    <string name="normal">보통</string>
+    <string name="hard">어려움</string>
+    <string name="start">시작</string>
+    <string name="resttime">0</string>
+    <string name="winmessage">미안합니다 휴먼… \n휴먼이 이렇게 강력한 줄 몰랐습니다.</string>
+    <string name="losemessage">가소롭군요 휴먼? \n겨우 그 정도뿐인 겁니까?</string>
+    <string name="losehome">관두자…</string>
+    <string name="loseretry">야, 다시해!</string>
+    <string name="winhome">끝!</string>
+    <string name="winretry">또 하자!</string>
+    <string name="Num">1</string>
+    <string name="X">X</string>
+    <string name="XX">XX</string>
+    <string name="XXX">XXX</string>
+    <string name="splash_text">AI 369</string>
+    <string name="init_game_text">Human : </string>
+    <string name="bench_start">벤치마킹 시작</string>
+    <string name="bench1">AI1 : </string>
+    <string name="bench2">AI2 : </string>
+    <string name="bench3">AI3 : </string>
+    <string name="tfe_dc_app_name" translatable="false">TFL Digit Classifier</string>
+    <string name="tfe_dc_clear_button_text" translatable="false">Clear</string>
+    <string name="tfe_dc_prediction_text_placeholder" translatable="false">Please draw a digit</string>
+    <string name="tfe_dc_classification_error_message" translatable="false">Error classifying drawing: %s</string>
+</resources>
